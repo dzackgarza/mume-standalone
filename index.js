@@ -158,5 +158,3 @@ try {
   console.log(err);
   process.exitCode = -1;
 }
-
-
